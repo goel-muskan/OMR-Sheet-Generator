@@ -1,4 +1,4 @@
-OMR SHEET GENERATOR
+OMR-Sheet-Generator
 
 
 
